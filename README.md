@@ -108,7 +108,3 @@ Projects published here are intended to include:
 I am building toward roles where I can combine my Computer Engineering background, software development experience, corporate knowledge, and growing data analytics capabilities to support better decisions, improve processes, automate workflows, and develop reliable technical solutions.
 
 Cybersecurity remains part of this professional direction, allowing me to approach data, applications, and systems with a stronger understanding of protection, risk, and responsible technology practices.
-
----
-
-_This profile documents my continued development across data analytics, software development, and cybersecurity. Projects will be added as they reach a complete, reproducible, and professionally presentable state._
