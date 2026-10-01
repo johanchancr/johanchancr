@@ -57,6 +57,8 @@ I'm expanding into **data analytics and visualization** through a Cisco learning
 ## 🛠️ Toolkit
 
 **Data & Analytics**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <img src="https://skillicons.dev/icons?i=python,postgres,excel,git,github" alt="Data tools"/>
 &nbsp;SQL · Tableau · Exploratory Data Analysis · Data Storytelling
