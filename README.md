@@ -1,15 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Chan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Data%20Analytics%20%C2%B7%20Software%20Development%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=60" width="100%" alt="Johan Chan header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0509,50:4a0e1e,100:722F37&height=220&section=header&text=Johan%20Chan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Data%20Analytics%20%C2%B7%20Software%20Development%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=60" width="100%" alt="Johan Chan header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2C9FD9&center=true&vCenter=true&width=640&lines=Turning+data+into+clear+decisions;Building+tools+that+automate+and+scale;Securing+what+I+build+and+analyze" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=B03A52&center=true&vCenter=true&width=640&lines=Turning+data+into+clear+decisions;Building+tools+that+automate+and+scale;Securing+what+I+build+and+analyze" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-6%2B%20years-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica-2b0a14?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-5a1427?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Preparing-Security%2B%20SY0--701-C8202F?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Cisco%20Data%20Analytics-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -170,4 +171,4 @@ I'm building toward roles where I can combine Computer Engineering, software dev
   <a href="mailto:johanchanch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:722F37,50:4a0e1e,100:1a0509&height=120&section=footer" width="100%"/>
