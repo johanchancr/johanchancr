@@ -1,99 +1,128 @@
-# Johan Chan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Johan%20Chan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Data%20Analytics%20%C2%B7%20Software%20Development%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=60" width="100%" alt="Johan Chan header"/>
 
-**Computer Engineer | Data Analytics · Software Development · Cybersecurity**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2C9FD9&center=true&vCenter=true&width=640&lines=Turning+data+into+clear+decisions;Building+tools+that+automate+and+scale;Securing+what+I+build+and+analyze" alt="Typing animation"/>
+</p>
 
-Computer Engineer based in Costa Rica with more than six years of experience in international corporate and technology-driven environments. My professional background includes digital workflows, process validation, technical problem-solving, and collaboration with multidisciplinary teams.
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Preparing-Security%2B%20SY0--701-C8202F?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Cisco%20Data%20Analytics-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-I am currently expanding my professional profile into **data analytics and visualization** through a Cisco learning program supported by my current employer. My objective is to combine engineering judgment, software development, operational experience, and data-driven methods to transform information into clear insights and practical solutions.
+---
 
-## Professional focus
+## 👋 About me
 
-- Data collection, cleaning, transformation, and exploratory analysis
-- Dashboard development and data visualization
-- Identification of trends, patterns, and improvement opportunities
-- Translation of analytical findings into clear business recommendations
-- Process analysis and operational decision support
-- Development of software tools that support analysis and automation
-- Cybersecurity and responsible data handling
+Computer Engineer with **6+ years** in international corporate and technology-driven environments. My background covers digital workflows, process validation, technical problem-solving, and collaboration with multidisciplinary teams.
 
-## Current development
+I'm expanding into **data analytics and visualization** through a Cisco learning program supported by my employer. The goal: combine engineering judgment, software development, operational experience, and data-driven methods to turn information into clear insights and practical solutions.
 
-### Data Analytics
+---
 
-I am developing practical capabilities in the complete analytical process: defining questions, preparing datasets, exploring information, selecting appropriate visualizations, and communicating conclusions to technical and non-technical audiences.
+## 🧭 Professional focus
 
-My current toolkit includes:
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data Analytics</h3>
+      Collection, cleaning, and transformation<br>
+      Exploratory analysis<br>
+      Dashboards and visualization<br>
+      Trends, patterns, and improvement opportunities<br>
+      Findings translated into business recommendations
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Software Development</h3>
+      Web applications<br>
+      APIs and system integration<br>
+      Automation and local-first tools<br>
+      Tools that support analysis<br>
+      Git-based workflows
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔐 Cybersecurity</h3>
+      Threats and vulnerabilities<br>
+      Data protection and network security<br>
+      Identity and access management<br>
+      Risk and secure development<br>
+      Responsible data handling
+    </td>
+  </tr>
+</table>
 
-- Excel and spreadsheets
-- SQL
-- Tableau
-- Python
-- Exploratory data analysis
-- Data visualization and storytelling
-- Git and GitHub
+---
 
-### Software Development
+## 🛠️ Toolkit
 
-Software development is a central part of my engineering background and complements my work in data analytics. It allows me to move beyond static analysis by building applications, automating repetitive tasks, integrating APIs, and creating tools that make information easier to access and use.
+**Data & Analytics**
 
-My development experience and continued learning include:
+<img src="https://skillicons.dev/icons?i=python,postgres,excel,git,github" alt="Data tools"/>
+&nbsp;SQL · Tableau · Exploratory Data Analysis · Data Storytelling
 
-- JavaScript and TypeScript
-- Python
-- Angular and NestJS
-- Web application development
-- APIs and system integration
-- Automation and local-first tools
-- Git-based development workflows
+**Software Development**
 
-### Cybersecurity
+<img src="https://skillicons.dev/icons?i=ts,js,angular,nestjs,html,css" alt="Dev tools"/>
 
-Cybersecurity remains an important part of my long-term professional specialization. I am actively preparing for **CompTIA Security+ SY0-701**, strengthening my understanding of threats, vulnerabilities, data protection, network security, identity and access management, risk, and secure development practices.
+**Security & Environment**
 
-This security perspective complements both data analytics and software development by reinforcing responsible data use, confidentiality, integrity, access control, secure implementation, and risk-aware decision-making.
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="Security tools"/>
 
-## Portfolio projects
+---
 
-### Technology Job Market Analysis
+## 🚀 Portfolio projects
 
-An analysis of technology job opportunities across data, software development, and cybersecurity roles. The project will examine requested skills, work arrangements, locations, experience requirements, and available salary information.
+Each project is documented as a complete case study: problem, data, method, findings, and limitations.
 
-**Skills demonstrated:** data collection, cleaning, SQL, exploratory analysis, Tableau, visualization, and communication of findings.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔎 Technology Job Market Analysis</h3>
+      <img src="https://img.shields.io/badge/status-in%20progress-F2A900?style=flat-square"/><br><br>
+      Analysis of data, software development, and cybersecurity job opportunities: requested skills, work arrangements, locations, experience requirements, and salary information when available.<br><br>
+      <b>Stack:</b> SQL · Tableau · Python<br>
+      <b>Shows:</b> data collection, cleaning, EDA, visualization, communication of findings<br><br>
+      <a href="#">Case study →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ Security+ Learning Analytics</h3>
+      <img src="https://img.shields.io/badge/status-in%20progress-F2A900?style=flat-square"/><br><br>
+      System to examine practice results, recurring mistakes, objective coverage, and progress, in order to generate more focused study recommendations.<br><br>
+      <b>Stack:</b> TypeScript · Python<br>
+      <b>Shows:</b> data modeling, progress metrics, analytical logic, responsible handling of learning data<br><br>
+      <a href="#">Case study →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Digital Workflow Performance Analysis</h3>
+      <img src="https://img.shields.io/badge/status-in%20progress-F2A900?style=flat-square"/><br><br>
+      Analysis of anonymized or simulated operational data to evaluate processing times, recurring errors, workload patterns, and process improvement opportunities.<br><br>
+      <b>Stack:</b> SQL · Tableau · Excel<br>
+      <b>Shows:</b> KPI definition, trend analysis, dashboards, actionable recommendations<br><br>
+      <a href="#">Case study →</a>
+    </td>
+  </tr>
+</table>
 
-### Security+ Learning Analytics
+---
 
-A data-driven system for examining practice results, recurring mistakes, objective coverage, and learning progress. The goal is to identify weaker areas and generate more focused study recommendations.
+## 🧪 How I document projects
 
-**Skills demonstrated:** software development, data modeling, progress metrics, analytical logic, visualization, and responsible handling of learning data.
+```mermaid
+flowchart LR
+    A[Business context] --> B[Research question]
+    B --> C[Data source & scope]
+    C --> D[Cleaning & transformation]
+    D --> E[Exploratory analysis]
+    E --> F[Visualization]
+    F --> G[Findings & recommendations]
+    G --> H[Reproducible code]
+```
 
-### Digital Workflow Performance Analysis
+<details>
+<summary><b>Repository standards</b></summary>
 
-An analysis based on anonymized or simulated operational data to evaluate processing times, recurring errors, workload patterns, and opportunities for process improvement in a digital workflow.
-
-**Skills demonstrated:** KPI definition, data preparation, trend analysis, dashboard development, process analysis, and actionable recommendations.
-
-## Project methodology
-
-I document each project as a complete analytical case study:
-
-1. Business context and problem definition
-2. Research question and expected value
-3. Data source, scope, and limitations
-4. Data cleaning and transformation
-5. Exploratory analysis
-6. Visualization and interpretation
-7. Findings and recommendations
-8. Reproducible code and documentation
-
-## Professional background
-
-My experience in regulated and technology-oriented environments has developed my attention to detail, adaptability, process awareness, and ability to work consistently with quality standards. It also gives me practical context for understanding how data can support operational efficiency, quality, risk management, and continuous improvement.
-
-In addition to my corporate background, I have experience in software development and technology education, including projects involving web applications, programming, electronics, robotics, and digital systems.
-
-## Repository standards
-
-Projects published here are intended to include:
+<br>
 
 - A clearly defined problem and analytical objective
 - Documented and ethically sourced data
@@ -103,8 +132,38 @@ Projects published here are intended to include:
 - Limitations, assumptions, and future improvements
 - No confidential, proprietary, or personally identifiable information
 
-## Professional direction
+</details>
 
-I am building toward roles where I can combine my Computer Engineering background, software development experience, corporate knowledge, and growing data analytics capabilities to support better decisions, improve processes, automate workflows, and develop reliable technical solutions.
+---
 
-Cybersecurity remains part of this professional direction, allowing me to approach data, applications, and systems with a stronger understanding of protection, risk, and responsible technology practices.
+## 🏢 Background
+
+My experience in regulated and technology-oriented environments has built my attention to detail, adaptability, process awareness, and consistency with quality standards. It gives me practical context on how data supports operational efficiency, quality, risk management, and continuous improvement.
+
+Beyond my corporate work, I have experience in software development and technology education: web applications, programming, electronics, robotics, and digital systems.
+
+---
+
+## 🎯 Direction
+
+I'm building toward roles where I can combine Computer Engineering, software development, corporate knowledge, and growing analytics skills to support better decisions, improve processes, automate workflows, and deliver reliable technical solutions. Cybersecurity stays part of that path, so I approach data, applications, and systems with a solid understanding of protection and risk.
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0f2027&title_color=2C9FD9&text_color=ffffff&icon_color=2C9FD9" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0f2027&title_color=2C9FD9&text_color=ffffff" alt="Top languages"/>
+</p>
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
