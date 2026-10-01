@@ -150,20 +150,11 @@ I'm building toward roles where I can combine Computer Engineering, software dev
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=0f2027&title_color=2C9FD9&text_color=ffffff&icon_color=2C9FD9" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=0f2027&title_color=2C9FD9&text_color=ffffff" alt="Top languages"/>
-</p>
-
----
-
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU-CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/johan-chan-311682197?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:johanchanch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
