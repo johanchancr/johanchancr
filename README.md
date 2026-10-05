@@ -22,13 +22,17 @@ Software Development
 <img height="40" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img height="40" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img height="40" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img height="40" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img height="40" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img height="40" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 Security & Environment
 <img height="40" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img height="40" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img height="40" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img height="40" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 Certifications
 
 <p align="left">
-  <a>
-    <img src="[assets/cisco-badge.png](https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)" height="160" alt="Cisco badge on Credly"/>
+  <a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">
+    <img src="data-analitycs-essentials.png" height="160" alt="Cisco Data Analytics badge on Credly"/>
   </a>
 </p>
+
+Cisco Data Analytics program. [View credential on Credly](https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url)
+
 How I document projects
 <details> <summary><b>Workflow and repository standards</b></summary> <br> 
 Business context
