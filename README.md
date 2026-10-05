@@ -25,9 +25,24 @@ Security & Environment
 
 Certifications
 
-<a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">
-  <img src="data-analytics-essentials.png" height="160" alt="Cisco Data Analytics Essentials badge on Credly"/>
-</a>
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">
+        <img src="data-analytics-essentials.png" height="180" alt="Cisco Data Analytics Essentials badge"/>
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Data Analytics Essentials</h3>
+      <b>Issued by:</b> Cisco<br>
+      <b>Credential:</b> <a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">Verify on Credly</a><br><br>
+      Foundational program covering the data analytics workflow: collecting, cleaning, analyzing, and visualizing data to support decisions.<br><br>
+      <b>Skills:</b> Data analysis · Data cleaning · Data visualization · Data storytelling<br>
+      <b>Applied in:</b> <a href="#portfolio-projects">Technology Job Market Analysis</a>
+    </td>
+  </tr>
+</table>
+
 How I document projects
 <details> <summary><b>Workflow and repository standards</b></summary> <br> 
 Business context
