@@ -25,14 +25,9 @@ Security & Environment
 
 Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">
-    <img src="data-analitycs-essentials.png" height="160" alt="Cisco Data Analytics badge on Credly"/>
-  </a>
-</p>
-
-Cisco Data Analytics program. [View credential on Credly](https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url)
-
+<a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">
+  <img src="data-analytics-essentials.png" height="160" alt="Cisco Data Analytics Essentials badge on Credly"/>
+</a>
 How I document projects
 <details> <summary><b>Workflow and repository standards</b></summary> <br> 
 Business context
