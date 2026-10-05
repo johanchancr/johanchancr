@@ -38,7 +38,6 @@ Certifications
       <b>Credential:</b> <a href="https://www.credly.com/badges/0cfc33b8-fa66-45a7-8296-4f1766871603/public_url">Verify on Credly</a><br><br>
       Foundational program covering the data analytics workflow: collecting, cleaning, analyzing, and visualizing data to support decisions.<br><br>
       <b>Skills:</b> Data analysis · Data cleaning · Data visualization · Data storytelling<br>
-      <b>Applied in:</b> <a href="#portfolio-projects">Technology Job Market Analysis</a>
     </td>
   </tr>
 </table>
